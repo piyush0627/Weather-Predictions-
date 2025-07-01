@@ -1,3 +1,24 @@
+Temperature,Humidity,WindSpeed,Weather
+30,65,12,Sunny
+25,80,10,Rainy
+20,90,5,Rainy
+35,40,20,Sunny
+22,85,7,Cloudy
+28,70,15,Sunny
+18,95,4,Rainy
+24,75,6,Cloudy
+31,60,10,Sunny
+26,82,12,Rainy
+23,78,5,Cloudy
+33,55,18,Sunny
+19,88,3,Rainy
+29,68,14,Sunny
+21,86,6,Cloudy
+27,72,11,Sunny
+17,92,4,Rainy
+32,58,17,Sunny
+20,84,5,Cloudy
+25,79,8,Rainy
 # Weather Prediction using ML
 import pandas as pd
 import numpy as np
